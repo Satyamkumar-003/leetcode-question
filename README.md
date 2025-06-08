@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |

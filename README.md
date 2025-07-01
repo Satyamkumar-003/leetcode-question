@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0686-repeated-string-match) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |

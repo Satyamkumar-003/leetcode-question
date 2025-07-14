@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -151,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

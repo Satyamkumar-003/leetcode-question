@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0907-koko-eating-bananas) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |

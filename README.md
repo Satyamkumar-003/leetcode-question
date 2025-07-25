@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0143-reorder-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0143-reorder-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -167,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0143-reorder-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

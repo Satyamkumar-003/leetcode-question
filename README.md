@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0907-koko-eating-bananas) |
+| [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->

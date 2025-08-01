@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0125-valid-palindrome) |
+| [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

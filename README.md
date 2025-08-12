@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 ## Enumeration
 |  |

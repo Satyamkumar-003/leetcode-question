@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |

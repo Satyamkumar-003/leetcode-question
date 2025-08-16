@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0342-power-of-four) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting

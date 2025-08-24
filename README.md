@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |

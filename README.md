@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |

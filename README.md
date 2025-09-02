@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2481-strictly-palindromic-number) |
+| [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
+| [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 ## Backtracking
 |  |
 | ------- |

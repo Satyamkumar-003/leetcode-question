@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0334-increasing-triplet-subsequence) |
+| [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0342-power-of-four) |
+| [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0679-24-game) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

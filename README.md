@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
 | ------- |

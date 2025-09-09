@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0679-24-game) |
@@ -334,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

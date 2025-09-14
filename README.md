@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0679-24-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
 | [1006-vowel-spellchecker](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1006-vowel-spellchecker) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 ## Backtracking

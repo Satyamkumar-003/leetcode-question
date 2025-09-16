@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0334-increasing-triplet-subsequence) |
+| [0495-teemo-attacking](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1006-vowel-spellchecker](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
+| [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0679-24-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |

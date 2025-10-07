@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
+| [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1955-seat-reservation-manager](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1955-seat-reservation-manager) |
 ## Trie
 |  |

@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [2169-simple-bank-system](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |

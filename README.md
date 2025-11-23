@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
 | [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix

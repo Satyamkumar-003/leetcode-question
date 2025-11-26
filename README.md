@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0692-top-k-frequent-words) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0535-encode-and-decode-tinyurl) |
 | [1955-seat-reservation-manager](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2169-simple-bank-system) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1028-interval-list-intersections) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3723-sum-of-good-numbers](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3723-sum-of-good-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3830-find-closest-person) |

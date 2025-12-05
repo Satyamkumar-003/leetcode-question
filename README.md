@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |

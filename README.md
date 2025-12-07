@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3934-coupon-code-validator](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3934-coupon-code-validator) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## String Matching

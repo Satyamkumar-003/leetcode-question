@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3723-sum-of-good-numbers](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3723-sum-of-good-numbers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3830-find-closest-person) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -465,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0535-encode-and-decode-tinyurl) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->

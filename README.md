@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0229-majority-element-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0670-maximum-swap) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0189-rotate-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [1028-interval-list-intersections](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1028-interval-list-intersections) |

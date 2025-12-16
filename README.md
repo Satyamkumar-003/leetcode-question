@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-square-sum-triples](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1925-count-square-sum-triples) |

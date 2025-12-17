@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2211-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3703-remove-k-balanced-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3703-remove-k-balanced-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
+| [3703-remove-k-balanced-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3703-remove-k-balanced-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3934-coupon-code-validator) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3703-remove-k-balanced-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3703-remove-k-balanced-substrings) |
 | [3790-fruits-into-baskets-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |

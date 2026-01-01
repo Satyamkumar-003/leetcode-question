@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0319-bulb-switcher) |

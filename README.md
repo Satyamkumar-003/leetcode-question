@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1975-maximum-matrix-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |

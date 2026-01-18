@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0036-valid-sudoku) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0125-valid-palindrome) |

@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
+| [1920-build-array-from-permutation](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1184-car-pooling) |
+| [1920-build-array-from-permutation](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1920-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2288-count-operations-to-obtain-zero) |

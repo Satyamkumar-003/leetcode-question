@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3583-count-special-triplets](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Satyamkumar-003/leetcode-question/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/Satyamkumar-003/leetcode-question/tree/master/0986-largest-time-for-given-digits) |
 | [1925-count-square-sum-triples](https://github.com/Satyamkumar-003/leetcode-question/tree/master/1925-count-square-sum-triples) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Satyamkumar-003/leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 ## Segment Tree
 |  |
 | ------- |
